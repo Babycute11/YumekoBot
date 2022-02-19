@@ -84,12 +84,12 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="➕ Add solo To Your group ➕", url="http://t.me/?startgroup=true"),
+        InlineKeyboardButton(text="➕ Add solo To Your group ➕", url="http://t.me/Solo_manger_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="About", callback_data="yumeko_"),
         InlineKeyboardButton(
-            text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/ichigosupportchat"
+            text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/solo_support_chat"
         ),
     ],
     [
